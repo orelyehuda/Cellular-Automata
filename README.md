@@ -5,15 +5,15 @@ c++ Elementary Cellular Automata Generator
 
 in VS compile and run;
 
-
 # Examples:
 
 Rule 20:
 
-[![](demo1.png)]
+[![1](demo1.png)]
+
+
+Rule 30:
+[![1](demo0.png)]
 
 # USE
-
- -'z' to add a random orbiter
- -'x' to add a perfect orbiter around biggest star
- -'e' clear all orbiters
+in the main program, tweak int cond[8] = { 1, 0, 1, 1, 0, 1, 1, 0 }; to generate new cellular structs.
