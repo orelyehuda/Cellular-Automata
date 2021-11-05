@@ -1,10 +1,6 @@
 # Cellular-Automata
 c++ Elementary Cellular Automata Generator
 
-## Running the Cellular-Automata program:
-
-in VS compile and run;
-
 # Examples:
 
 Rule 20:
